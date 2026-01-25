@@ -1,1 +1,1 @@
-# N-queen-Visulaizer
+# N-queen visulaizer
